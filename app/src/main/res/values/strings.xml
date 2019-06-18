@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertDialogSelectItemSample</string>
+    <string name="button_name">Show Select</string>
+</resources>
